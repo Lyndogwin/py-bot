@@ -1,0 +1,10 @@
+# version no longer required with docker-compose version 1.27.0 sept_2020_07
+# docker has since merged 2.x and 3.x compose file specifications into --> compose specification
+# version: 3
+services:
+  bot:
+    build: .
+    env_file: 
+      - bot.env
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
