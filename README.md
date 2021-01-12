@@ -38,8 +38,9 @@ Include packge name as shown bellow
 - Navigate to the generated url in your browser
 - Select the servers you wish to add the bot to 
 
-## Goals
-I would like to create a chat bot with the additional functionality of assisting in managing personal relationships by 'memorizing' important information about the people I converse with.
+## Ideas for bot
+- Using [Google Vision API](https://cloud.google.com/vision) to gain insights on posted images
+- A chat bot with the additional functionality of assisting in managing personal relationships by 'memorizing' important information about the people I converse with.
 
 ### NLP and other ML resources
 - [Mimic Bot](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
